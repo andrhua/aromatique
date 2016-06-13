@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jbox2d-jbox2d-2.3.0-BETA/jbox2d-library/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/libs/mpandroidchartlibrary-2-2-4.jar!/" />
+    </SOURCES>
+  </library>
+</component>

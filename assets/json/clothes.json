@@ -1,0 +1,565 @@
+{
+  "head":[
+    {
+      "price": 0,
+      "brand": "Human",
+      "model": "Useless"
+    },
+    {
+      "price": 590,
+      "brand": "White Mountaineering",
+      "model": "Looped Pile Beanie Cap"
+    }, 
+    {
+      "price": 125,
+      "brand": "Sasquatchfabrix",
+      "model": "Pig Leather Hat"
+    }, 
+    {
+      "price": 1290,
+      "brand": "White Mountaineering",
+      "model": "Navy Cotton Nylon Hat"
+    },
+    {
+      "price": 56000,
+      "brand": "Sasquatchfabrix",
+      "model": "Ronguburimu Hat"
+    },
+    {
+      "price": 860,
+      "brand": "Zara",
+      "model": "COTTON KNIT CAP"
+    },
+    {
+      "price": 90,
+      "brand": "Mango",
+      "model": "Contrast ribbon hat"
+    },
+    {
+      "price": 500,
+      "brand": "Pull&Bear",
+      "model": "CAP WITH PATCH"
+    },
+    {
+      "price": 8690,
+      "brand": "Pull&Bear",
+      "model": "PRINTED CAP"
+    },
+    {
+      "price": 2450,
+      "brand": "Pull&Bear",
+      "model": "BUCKET-STYLE HAT"
+    },
+    {
+      "price": 543000000,
+      "brand": "Pull&Bear",
+      "model": "NAUTICAL CAP"
+    },
+    {
+      "price": 59800,
+      "brand": "Y-3",
+      "model": "ALLOVER PRINT BUCKET HAT"
+    },
+    {
+      "price": 59,
+      "brand": "The Hundreds",
+      "model": "BUCKET HAT"
+    },
+    {
+      "price": 10000,
+      "brand": "Stussy",
+      "model": "Stock Terry Bucket Hat"
+    },
+    {
+      "price": 13000,
+      "brand": "Stussy",
+      "model": "SS LINK FA15 BUCKET"
+    },
+    {
+      "price": 349,
+      "brand": "Pull&Bear",
+      "model": "REVERSIBLE BUCKET HAT"
+    },
+    {
+      "price": 4990,
+      "brand": "Pull&Bear",
+      "model": "EMBROIDERED CAP"
+    },
+    {
+      "price": 631990,
+      "brand": "Zara",
+      "model": "OPENWORK NEWSBOY CAP"
+    },
+    {
+      "price": 3839990,
+      "brand": "Adidas",
+      "model": "BULLS SNAP-BACK HAT"
+    },
+    {
+      "price": 234000,
+      "brand": "Adidas",
+      "model": "GRAPHIC CAP"
+    },
+    {
+      "price": 8000,
+      "brand": "Zara",
+      "model": "FELT HAT WITH WIDE BRIM WITHOUT RIBBON"
+    },
+    {
+      "price": 71200,
+      "brand": "Y-3",
+      "model": "FELT HAT"
+    },
+    {
+      "price": 9841200,
+      "brand": "Penfield",
+      "model": "FUR FABRIC CAP"
+    },
+    {
+      "price": 740000,
+      "brand": "Topman",
+      "model": "Brown Marl Boater Hat"
+    },
+    {
+      "price": 85,
+      "brand": "Zara",
+      "model": "COTTON KNIT CAP"
+    }
+  ],
+  "body":[
+    {
+      "price": 0,
+      "brand": "Human",
+      "model": "Useless"
+    },
+    {
+      "price": 3450,
+      "brand": "Stone Island",
+      "model": "Poly Cover Composite + Interno Staccabile"
+    },
+    {
+      "price": 770,
+      "brand": "Stone Island",
+      "model": "20858"
+    },
+    {
+      "price": 86700,
+      "brand": "Sasquatchfabrix",
+      "model": "Yokosuka Nagagi"
+    },
+    {
+      "price": 135990,
+      "brand": "Phenomenon",
+      "model": "Camouflage Fur Coat"
+    },
+    {
+      "price": 9990,
+      "brand": "Phenomenon",
+      "model": "Navy Center Padding Wool Coat"
+    },
+    {
+      "price": 78990,
+      "brand": "Thrasher",
+      "model": "Skate Mag Hoodie"
+    },
+    {
+      "price": 490,
+      "brand": "Sasquatchfabrix",
+      "model": "Flagcheck Sleeve Shirt White"
+    },
+    {
+      "price": 2560,
+      "brand": "Fred Perry",
+      "model": "Sports Authentic Bomber Track Jacket 799 Mahogany"
+    },
+    {
+      "price": 89100,
+      "brand": "Fred Perry",
+      "model": "Macleod Tartan Shirt 608 Navy"
+    },
+    {
+      "price": 51500,
+      "brand": "Zara",
+      "model": "OPENWORK SWEATER"
+    },
+    {
+      "price": 900,
+      "brand":"Pull&Bear",
+      "model": "PRINTED BLUE SHORT SLEEVED TEE"
+    },
+    {
+      "price": 2800,
+      "brand":"Pull&Bear",
+      "model": "WATERCOLOUR PRINT T-SHIRT"
+    },
+    {
+      "price": 7960,
+      "brand":"Pull&Bear",
+      "model": "LIGHT FALSE PLAIN SHIRT"
+    },
+    {
+      "price": 43090,
+      "brand":"Penfield",
+      "model": "Brookport Chenille Crew Neck Sweat"
+    },
+    {
+      "price": 99990,
+      "brand":"Fred Perry",
+      "model": "Reissues Tartan Short Sleeve Shirt Black"
+    },
+    {
+      "price": 139000,
+      "brand":"Fred Perry",
+      "model": "TWIN TIPPED BOMBER JACKET"
+    },
+    {
+      "price": 249000,
+      "brand":"Fred Perry",
+      "model": "Sports Authentic Bomber Track Jacket Ivy"
+    },
+    {
+      "price": 2490,
+      "brand":"Dolce&Gabbana",
+      "model":"PRINTED COTTON SWEATSHIRT"
+    },
+    {
+      "price": 678590,
+      "brand":"Dolce&Gabbana",
+      "model":"LEATHER JACKET"
+    },
+    {
+      "price": 299000,
+      "brand":"Valentino",
+      "model":"ARMY COUTURE SWEATSHIRT"
+    },
+    {
+      "price": 345000,
+      "brand":"Valentino",
+      "model":"HAWAII PRINT SHIRT"
+    },
+    {
+      "price": 345000,
+      "brand":"Valentino",
+      "model":"DENIM JACKET"
+    },
+    {
+      "price": 890000,
+      "brand":"Valentino",
+      "model":"ROCKSTUD UNTITLED PEACOAT"
+    },
+    {
+      "price": 76990,
+      "brand":"Valentino",
+      "model":"FANTASY ANIMALS T-SHIRT"
+    },
+    {
+      "price": 2300000,
+      "brand":"Valentino",
+      "model":"Twill montgomery coat Gucci"
+    }
+  ],
+  "legs":[
+    {
+      "price": 0,
+      "brand": "Human",
+      "model": "Useless"
+    },
+    {
+      "price": 800000000,
+      "brand": "Jeremy Scott",
+      "model": "Leopard"
+    },
+    {
+      "price": 78990,
+      "brand": "Adidas ",
+      "model": "Floral Blue"
+    },
+    {
+      "price": 5490,
+      "brand": "Adidas ",
+      "model": "Techfit base"
+    },
+    {
+      "price": 14590,
+      "brand": "Adidas Originals",
+      "model": "Superstar"
+    },
+    {
+      "price": 1120,
+      "brand": "Stone Island",
+      "model": "68159 Green Military"
+    },
+    {
+      "price": 1890,
+      "brand": "The North Face",
+      "model": "Diablo Acrylic Orange"
+    },
+    {
+      "price": 4500,
+      "brand": "White Mountaineering",
+      "model": "Buffalo Printed"
+    },
+    {
+      "price": 67890,
+      "brand": "Phenomenon",
+      "model": "Enamel Pants Purple"
+    },
+    {
+      "price": 58900,
+      "brand": "Phenomenon",
+      "model": "Jersey Camouflage Pants"
+    },
+    {
+      "price": 58900,
+      "brand": "Sasquatchfabrix",
+      "model": "Oriental Cropped Pants"
+    },
+    {
+      "price": 123000,
+      "brand": "Ralph Lauren",
+      "model": "University Chino Skull Pants"
+    },
+    {
+      "price": 1290,
+      "brand": "Fred Perry",
+      "model": "Classic Twill Shorts 983 Postbox Red"
+    },
+    {
+      "price": 100,
+      "brand": "Stussy",
+      "model": "MILITARY PANTS"
+    },
+    {
+      "price": 8500,
+      "brand": "Zara",
+      "model": "PLUSH TROUSERS"
+    },
+    {
+      "price": 791000,
+      "brand": "Zara",
+      "model": "SKINNY DENIM DUNGAREES"
+    },
+    {
+      "price": 24900,
+      "brand": "Mango",
+      "model": "Chino bermuda shorts"
+    },
+    {
+      "price": 15000,
+      "brand": "Mango",
+      "model": "Medium wash denim bermuda shorts"
+    },
+    {
+      "price": 67000,
+      "brand": "Mango",
+      "model": "Cotton canvas bermuda shorts"
+    },
+    {
+      "price": 5490,
+      "brand": "Mango",
+      "model": "Pleated crop chinos"
+    },
+    {
+      "price": 2540,
+      "brand": "Mango",
+      "model": "Pleated bermuda shorts"
+    },
+    {
+      "price": 14500,
+      "brand": "Mango",
+      "model": "Slim-fit cotton chinos"
+    },
+    {
+      "price": 17890,
+      "brand": "Mango",
+      "model": "5-pocket cotton trousers"
+    },
+    {
+      "price": 350,
+      "brand": "Pull&Bear",
+      "model": "SKINNY JEANS"
+    },
+    {
+      "price": 890000,
+      "brand": "Zara",
+      "model": "CONTRASTING BERMUDAS"
+    },
+    {
+      "price": 60590,
+      "brand": "Valentino",
+      "model": "CAMUBUTTERFLY PRINTED TROUSERS"
+    },
+    {
+      "price": 6490,
+      "brand": "Valentino",
+      "model": "HAWAII COTTON TROUSERS"
+    },
+    {
+      "price": 990,
+      "brand": "Valentino",
+      "model": "HAWAII PRINT BERMUDA PANTS"
+    },
+    {
+      "price": 68000,
+      "brand": "Moschino",
+      "model": "Bermuda shorts"
+    },
+    {
+      "price": 912400,
+      "brand": "Giorgio Armani",
+      "model": "CROPPED TROUSERS "
+    },
+    {
+      "price": 12845000,
+      "brand": "Gucci",
+      "model": "Jean with flower appliqués"
+    }
+  ],
+  "foots":[
+    {
+      "price": 0,
+      "brand": "Human",
+      "model": "Useless"
+    },
+    {
+      "price": 450,
+      "brand": "Nike",
+      "model": "Air Max 90 Metallic Gold"
+    },
+    {
+      "price": 230,
+      "brand": "Puma",
+      "model": "R698 Perforated Pack Strong Blue"
+    },
+    {
+      "price": 190,
+      "brand": "New Balance",
+      "model": "996 Red"
+    },
+    {
+      "price": 345890,
+      "brand": "Adidas Originals",
+      "model": "Adilette"
+    },
+    {
+      "price": 899990,
+      "brand": "Nike",
+      "model": "Air Max 95 Essential Royal Blue Dark Grey Light Bone"
+    },
+    {
+      "price": 13000,
+      "brand": "Mango",
+      "model": "Tricolour jacquard espadrilles"
+    },
+    {
+      "price": 460000,
+      "brand": "Mango",
+      "model": "Leather Oxford shoes"
+    },
+    {
+      "price": 510000,
+      "brand": "Mango",
+      "model": "Buckle leather sandals"
+    },
+    {
+      "price": 91200,
+      "brand": "Mango",
+      "model": "Leather boat shoes"
+    },
+    {
+      "price": 1600,
+      "brand": "Zara",
+      "model": "COLOURFUL SANDALS"
+    },
+    {
+      "price": 3670,
+      "brand": "Zara",
+      "model": "HOOK AND LOOP SNEAKERS BLOOD"
+    },
+    {
+      "price": 10,
+      "brand": "Pull&Bear",
+      "model": "FABRIC PLIMSOLLS"
+    },
+    {
+      "price": 68790,
+      "brand": "Pull&Bear",
+      "model": "FANTASY SNEAKERS"
+    },
+    {
+      "price": 8990,
+      "brand": "Pull&Bear",
+      "model": "SINGLE TONE SNEAKERS"
+    },
+    {
+      "price": 21000,
+      "brand": "Zara",
+      "model": "MESH SNEAKERS"
+    },
+    {
+      "price": 34500,
+      "brand": "Mango",
+      "model": "Contrast appliqué sneakers"
+    },
+    {
+      "price": 89999900,
+      "brand": "Burberry",
+      "model": "DEERSKIN ANKLE BOOTS"
+    },
+    {
+      "price": 73200,
+      "brand": "Dior",
+      "model": "DERBY SHOE"
+    },
+    {
+      "price": 680,
+      "brand": "Balenciaga",
+      "model": "ATACAMA BOOTS"
+    },
+    {
+      "price": 1890,
+      "brand": "Dior",
+      "model": "BLUE SNEAKER"
+    },
+    {
+      "price": 556900,
+      "brand": "Moschino",
+      "model": "Joyful Sneakers"
+    },
+    {
+      "price": 5340,
+      "brand": "Gucci",
+      "model": "Leather boot with web"
+    },
+    {
+      "price": 2110,
+      "brand": "Dior",
+      "model": "OXFORD SHOE"
+    },
+    {
+      "price": 7890,
+      "brand": "Valentino",
+      "model": "HAWAIIAN COUTURE SNEAKER"
+    },
+    {
+      "price": 16899000,
+      "brand": "Kenzo",
+      "model": "Sonic Sneakers"
+    },
+    {
+      "price": 6840,
+      "brand": "Valentino",
+      "model": "EMBROIDERED SANDAL"
+    },
+    {
+      "price": 34500,
+      "brand": "Valentino",
+      "model": "TIE & DYE SNEAKER WITH BUTTERFLIES"
+    },
+    {
+      "price": 87100,
+      "brand": "Valentino",
+      "model": "CAMUSTARS ROCKRUNNER"
+    }
+  ]
+}

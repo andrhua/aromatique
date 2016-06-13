@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aromatique</string>
+    <string name="aromatique">Aromatique</string>
+    <string name="start">Начать</string>
+    <string name="vvvvvv">VVVVVV</string>
+    <string name="arrows">стрелки</string>
+    <string name="sides">стороны</string>
+    <string name="settings_title">Настройки</string>
+    <string name="control">Управление</string>
+    <string name="metamorphosis">Метаморфоза</string>
+    <string name="sound">Звук</string>
+    <string name="add_money_title">Добавить немного денег</string>
+    <string name="u_have">Вы имеете </string>
+    <string name="dollars"> $</string>
+    <string name="stats_title">Статистика</string>
+    <string name="about_description">Привет</string>
+    <string name="shoppin_title">Сходите за покупками</string>
+    <string name="tap_to_continue">Коснитесь, чтобы продолжить</string>
+    <string name="metamorphosis_description">Все данные будут удалены</string>
+    <string name="metamorphosis_confirmation">Конечно!</string>
+    <string name="case_state_title">Испытайте удачу</string>
+    <string name="buy">Купить</string>
+    <string name="open">Открыть</string>
+    <string name="language">Язык</string>
+    <string name="VVVVVV_desc">Сделайте свайп на левой стороне экрана, чтобы двигаться\nКоснитесь правой стороны, чтобы инвертировать гравитацию</string>
+    <string name="arrows_desc">Используйте стрелки, чтобы двигаться\nКоснитесь, чтобы инвертировать гравитацию</string>
+    <string name="sides_desc">Коснитесь левой или правой стороны экрана, чтобы двигаться\nКоснитесь обеих сторон вместе, чтобы инвертировать гравитацию</string>
+    <string name="page">"Стр. "</string>
+    <string name="of_2">" из 2"</string>
+    <string name="from_this">Из этого кейса вы можете получить</string>
+    <string name="acquire">Купить</string>
+    <string name="or">или</string>
+    <string name="view_items">Осмотреть</string>
+    <string name="init">Инициализация</string>
+    <string name="load_files">Загрузка файлов</string>
+    <string name="load_cases">Загрузка кейсов</string>
+    <string name="load_clothes">Загрузка одежды</string>
+    <string name="wardrobe_title">Гардероб</string>
+    <string name="wardrobe_is_empty">Ваш гардероб пуст!</string>
+    <string name="sell">Продать</string>
+    <string name="prelook_title">Создайте образ</string>
+    <string name="dress_up">Переодеться</string>
+    <string name="wear">Надеть</string>
+    <string name="takeoff">Снять</string>
+    <string name="ok">Ок</string>
+    <string name="no">Нет</string>
+    <string name="cant_be_undone">Это не может быть отменено!\nВы уверены?</string>
+    <string name="will_removed">Вещь будет удалена из гардероба, но вы получите половину ее цены.</string>
+    <string name="democratic">Демократичное</string>
+    <string name="mass">Массовое</string>
+    <string name="factory">Фабричное</string>
+    <string name="pret_a_porter">Прет-а-порте</string>
+    <string name="pret_a_porter_de_luxe">Прет-а-порте де люкс</string>
+    <string name="haute_couture">От кутюр</string>
+    <string name="unique">Уникальное</string>
+    <string name="inventory_title">Инвентарь</string>
+    <string name="container">Контейнер </string>
+    <string name="includes">Содержит:\n</string>
+    <string name="not_enough_money">К сожалению, у вас недостаточно денег.</string>
+    <string name="level_title">Выберите кварк</string>
+    <string name="inventory_is_empty">Ваш инвентарь пуст!</string>
+    <string name="level_locked">Пройдите предыдущий уровень, чтобы открыть этот. </string>
+    <string name="game_quit_warning">Вы уверены, что хотите выйти?</string>
+    <string name="resume">Продолжить</string>
+    <string name="Quit">Выход</string>
+    <string name="win_popup_text">Вы исследовали аромат!</string>
+    <string name="prequarks_collected">Собрано прекварков:</string>
+    <string name="menu_music">Музыка в меню</string>
+    <string name="ingame_music">Внутриигровая музыка</string>
+    <string name="pause">Пауза</string>
+    <string name="loading">Загрузка…</string>
+    <string name="time">Время</string>
+    <string name="money">Деньги</string>
+    <string name="deaths">Смерти</string>
+    <string name="of_deaths">смертей</string>
+    <string name="fall_into_abyss">Падение в пропасть</string>
+    <string name="spike">Шип</string>
+    <string name="turret">Турель</string>
+    <string name="total">Всего\n</string>
+    <string name="hours_playes">" часов всего сыграно"</string>
+    <string name="reasons_u_died">Причины, по которым Вы умерли</string>
+    <string name="most_difficult_level">Какой уровень вызывает наибольшие трудности</string>
+    <string name="in_game">В игре</string>
+    <string name="look_selection">Выбор образа</string>
+    <string name="of_all_spent_time">% всего проведенного в игре времени</string>
+    <string name="wasting_life">На что ты тратишь свою жизнь</string>
+    <string name="of_seconds">секунд</string>
+    <string name="time_wasted">Сколько времени потрачено</string>
+    <string name="cost_of_u">Ваша стоимость</string>
+    <string name="personal_capital">Личный капитал</string>
+    <string name="total_">"Всего "</string>
+    <string name="total_gained">"Всего заработано "</string>
+    <string name="total_spent">"Всего потрачено "</string>
+    <string name="tap_to_open">Коснитесь, чтобы открыть</string>
+    <string name="open_right_now">Хотите открыть контейнер прямо сейчас?</string>
+    <string name="retry">Заново</string>
+    <string name="u_died">Вы погибли!</string>
+    <string name="blade">Лезвие</string>
+    <string name="likes_to_look_stylish">Джо любит выглядеть стильно и модно, но еще больше он вовлечен в физику элементарных частиц.</string>
+    <string name="help_him">Джо совсем скоро предстоит сдать экзамен по физике, но, к сожалению, он не до конца разобрался в кварковой модели адронов.\nПомогите ему в этом!</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="his_name_is">Это Джо.</string>
+    <string name="about_title">О игре</string>
+    <string name="authors">Авторы</string>
+    <string name="intro">Интродукция</string>
+    <string name="sfx">Звуковые эффекты</string>
+    <string name="next_life">Может быть, в следующей жизни.</string>
+    <string name="authors_"><![CDATA[Авторы:\nЯ и моя семья]]></string>
+    <string-array name="levelName">
+        <item>d-кварк</item>
+        <item>u-кварк</item>
+        <item>s-кварк</item>
+        <item>c-кварк</item>
+        <item>b-кварк</item>
+        <item>t-кварк</item>
+    </string-array>
+    <string-array name="knowledges">
+        <item>Используйте стрелки, чтобы двигаться. </item>
+        <item>Нажмите на правую половину экрана, чтобы прыгнуть.</item>
+        <item>Собирайте монеты.</item>
+        <item>Остерегайтесь шипов…</item>
+        <item>…и туррелей.</item>
+        <item>Соберите все прекварки, чтобы исследовать аромат.</item>
+        <item>И помните: у Вас нет права на ошибку.</item>
+        <item>Жди зеленый свет и прыгай!</item>
+        <item>Кто сильнее?\nТанджела или Мачамп?</item>
+        <item>Вам нужен ключ, чтобы открыть эту дверь.</item>
+        <item>Что бы было, если бы ваша жизнь не зависела от вас?</item>
+        <item>Повторенье - мать ученья.</item>
+        <item>Должно быть, вы упустили что-то крайне важное.</item>
+        <item>Попался? Снова?</item>
+    </string-array>
+    <string-array name="dialog">
+        <item>Вы, должно быть, очень устали и проголодались, но и я тоже хочу есть, не могли бы вы принести мне рыбу из озера неподалеку?
+            #Спасибо тебе, да пусть пламя осветит путь твой.</item>
+        <item>Привет, это снова я. Какое-то приведение украло у меня бананы. Можешь принести их обратно?
+            #Благодарю Тебя, Господи Иисусе, ТЫ ДАЛ ЭТО ВСЕ!</item>
+    </string-array>
+</resources>

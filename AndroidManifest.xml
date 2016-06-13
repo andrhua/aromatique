@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.kekonyan.aromatique"
+          android:versionCode="0"
+          android:versionName="ochen glubokaya alpha">
+    <uses-sdk android:minSdkVersion="19"
+              android:targetSdkVersion="23"/>
+    <application android:fullBackupContent="@xml/backup_scheme"
+                 android:allowBackup="true"
+                 android:icon="@drawable/icon"
+                 android:label="@string/app_name"
+                 android:largeHeap="true"
+                 android:hardwareAccelerated="true">
+        <activity android:name="com.kekonyan.aromatique.GameActivity"
+                  android:screenOrientation="sensorLandscape"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aromatique</string>
+    <string name="kekonyanpng">kekonyan.png</string>
+    <string name="loading">Loading…</string>
+    <string name="aromatique">Aromatique</string>
+    <string name="tasted">" of 6 aromas tasted"</string>
+    <string name="start">Start</string>
+    <string name="createalook">Create a look</string>
+    <string name="vvvvvv">VVVVVV</string>
+    <string name="arrows">arrows</string>
+    <string name="sides">sides</string>
+    <string name="settings_title">Settings</string>
+    <string name="control">Control</string>
+    <string name="metamorphosis">Metamorphosis</string>
+    <string name="sound">Sound</string>
+    <string name="add_money_title">Add some money</string>
+    <string name="kfc">salary cashier in kfc</string>
+    <string name="russia_salary">avg salary in russia per month</string>
+    <string name="usa_salary">avg salary in USA per month</string>
+    <string name="putin_salary">feel yourself as V.P.</string>
+    <string name="u_have">You have </string>
+    <string name="dollars"> $</string>
+    <string name="data_accuracy">Data are accurate as of 2015</string>
+    <string name="look_cost">Your look costs</string>
+    <string name="stats_title">Stats</string>
+    <string name="about_description">Privet</string>
+    <string name="shoppin_title">Go shopping</string>
+    <string name="head">Head</string>
+    <string name="body">Body</string>
+    <string name="legs">Legs</string>
+    <string name="foots">Foots</string>
+    <string name="tap_to_continue">Tap to continue</string>
+    <string name="metamorphosis_description">All your data will be deleted</string>
+    <string name="metamorphosis_confirmation">Sure!</string>
+    <string name="metamorphosis_notification">Done!</string>
+    <string name="case_state_title">Try your luck</string>
+    <string name="buy">Buy</string>
+    <string name="open">Open</string>
+    <string name="language">Language</string>
+    <string name="VVVVVV_desc">Swipe on the left side to move\nTouch the right side to reverse</string>
+    <string name="arrows_desc">Use the arrows to move\nTouch the right side to reverse</string>
+    <string name="sides_desc">Touch the left or right sides to move\nTouch both sides together to reverse</string>
+    <string name="page">"Page "</string>
+    <string name="of_2">" of 2"</string>
+    <string name="from_this">From this case you can get</string>
+    <string name="acquire">Acquire</string>
+    <string name="or">or</string>
+    <string name="view_items">View items</string>
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+    <string name="init">Initialization</string>
+    <string name="load_files">Loading files</string>
+    <string name="load_cases">Loading cases</string>
+    <string name="load_clothes">Loading clothes</string>
+    <string name="wardrobe_title">Wardrobe</string>
+    <string name="wardrobe_is_empty">Your wardrobe is empty!</string>
+    <string name="sell">Sell</string>
+    <string name="prelook_title">Make a look</string>
+    <string name="dress_up">Dress up</string>
+    <string name="wear">Wear</string>
+    <string name="takeoff">Take off</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="cant_be_undone">This cannot be undone!\nAre you sure?</string>
+    <string name="will_removed">Item will be removed from the wardrobe, but you get half of its price.</string>
+    <string name="democratic">Democratic</string>
+    <string name="mass">Mass</string>
+    <string name="factory">Factory</string>
+    <string name="pret_a_porter">Prêt-à-porter</string>
+    <string name="pret_a_porter_de_luxe">Prêt-à-porter de luxe</string>
+    <string name="haute_couture">Haute couture</string>
+    <string name="unique">Unique</string>
+    <string name="inventory_title">Inventory</string>
+    <string name="container">"Container "</string>
+    <string name="includes">Includes:\n</string>
+    <string name="not_enough_money">Unfortunately, you don\'t have enough money.</string>
+    <string name="kekonyan_games">KEKONYAN GAMES</string>
+    <string name="level_title">Choose quark</string>
+    <string name="inventory_is_empty">Your inventory is empty!</string>
+    <string name="level_locked">Research previous aroma to open this one.</string>
+    <string name="game_quit_warning">Are you sure you want to quit?</string>
+    <string name="resume">Resume</string>
+    <string name="Quit">Quit</string>
+    <string name="win_popup_text">You\'ve researched aroma!</string>
+    <string name="prequarks_collected">Prequarks collected:</string>
+    <string name="menu_music">Menu music</string>
+    <string name="ingame_music">Ingame music</string>
+    <string name="pause">Pause</string>
+    <string name="time">Time</string>
+    <string name="money">Money</string>
+    <string name="deaths">Deaths</string>
+    <string name="of_deaths">of deaths</string>
+    <string name="fall_into_abyss">Fall into the abyss</string>
+    <string name="spike">Spike</string>
+    <string name="turret">Turret</string>
+    <string name="total">Total\n</string>
+    <string name="hours_playes">" hours total played"</string>
+    <string name="reasons_u_died">Reasons that you died</string>
+    <string name="most_difficult_level">What level it\'s the most difficult for you</string>
+    <string name="in_game">In game</string>
+    <string name="look_selection">Look selection</string>
+    <string name="of_all_spent_time">% of all time spent in a game</string>
+    <string name="wasting_life">What are you wasting your life</string>
+    <string name="of_seconds">of seconds</string>
+    <string name="time_wasted">How much time is wasted</string>
+    <string name="cost_of_u">Cost of you</string>
+    <string name="personal_capital">Personal capital</string>
+    <string name="total_">"Total "</string>
+    <string name="total_gained">"Total gained "</string>
+    <string name="total_spent">"Total spent "</string>
+    <string name="tap_to_open">Tap to open</string>
+    <string name="open_right_now">Would you like to open container right now?</string>
+    <string name="retry">Retry</string>
+    <string name="u_died">You died!</string>
+    <string name="blade">Blade</string>
+    <string name="likes_to_look_stylish">Joe likes to look stylish and fashionable, but it\'s even more involved in the
+        physics of the elementary particles.
+    </string>
+    <string name="help_him">Joe soon has to pass an exam in physics, but unfortunately he hasn\'t understood in the quark model of hadrons.\nHelp him in this!
+    </string>
+    <string name="welcome">Welcome!</string>
+    <string name="his_name_is">His name is Joe.</string>
+    <string name="about_title">About a game</string>
+    <string name="authors">Authors</string>
+    <string name="intro">Introduction</string>
+    <string name="sfx">SFX</string>
+    <string name="next_life">Maybe in next life.</string>
+    <string name="authors_">Author - me\n\nContact - kekonyan@outlook.com</string>
+    <string-array name="levelName">
+        <item>d-quark</item>
+        <item>u-quark</item>
+        <item>s-quark</item>
+        <item>c-quark</item>
+        <item>b-quark</item>
+        <item>t-quark</item>
+    </string-array>
+    <string-array name="knowledges">
+        <item>Use arrows to move.</item>
+        <item>Press on right half of screen to jump.</item>
+        <item>Collect coins.</item>
+        <item>Avoid spikes…</item>
+        <item>…and turrets.</item>
+        <item>Collect all preqaurks to research aroma. </item>
+        <item>And remember: you haven\'t room for error.</item>
+        <item>Wait for the green light and jump!</item>
+        <item>Who is stronger?\nTangela VS Machamp</item>
+        <item>You need a key to open this door.</item>
+        <item>What would happen if your life doesn\'t depend on you?</item>
+        <item>Practice makes perfect.</item>
+        <item>You must have missed something very important.</item>
+        <item>Gotcha? Again?</item>
+    </string-array>
+    <string-array name="dialog">
+        <item>Oh dear you must be very tired and want to eat, but I also want to eat, could you bring me a fish from the lake nearby?
+        #Thank you, so let the flame will light your way.</item>
+        <item>Hi it\'s me again. Some ghost stole my bananas. Could you bring me it back?
+        #THANK YOU, LORD JESUS, YOU GAVE IT ALL!</item>
+
+    </string-array>
+</resources>
